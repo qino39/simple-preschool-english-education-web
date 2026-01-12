@@ -1,0 +1,7 @@
+{
+  "name": "Copy of KidsEnglish Adventure",
+  "description": "A fun and interactive English learning platform for preschool children, featuring letters, animals, and an AI chat buddy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
